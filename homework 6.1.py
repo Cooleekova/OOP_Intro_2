@@ -200,4 +200,4 @@ for animal in animals:
     if animal.weight > biggest:
         biggest = animal.weight
         biggest_name = animal.name
-print(f'Самое тяжёлое живтоное - {biggest_name}, весит {biggest} кг')
+print(f'Самое тяжёлое животное - {biggest_name}, весит {biggest} кг')
